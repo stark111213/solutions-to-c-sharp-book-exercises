@@ -1,0 +1,2 @@
+﻿Program.ArrayMinimum();
+Program.ArrayAverage();
